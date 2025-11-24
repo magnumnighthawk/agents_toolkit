@@ -1,0 +1,38 @@
+agent:
+  id:
+  name:
+  description:
+
+  persona:
+    tone:
+    audience:
+    constraints: []
+
+  objectives:
+    primary: []
+    secondary: []
+
+  inputs: []
+  outputs: []
+
+  memory_model:
+    short_term:
+      description:
+    long_term:
+      description:
+      operations: []
+
+  tools: []
+
+  skills: []
+
+  behaviour:
+    top_level_loop:
+      steps: []
+      error_handling: []
+
+  policies: {}
+
+  evaluation:
+    metrics: []
+    test_scenarios: []
